@@ -15,3 +15,12 @@ Modeling: XGBoost, Scikit-learn (for other models)
 Data Preprocessing: Proper handling of missing values, outliers, and feature scaling significantly improved model performance.
 Model Selection: XGBoost demonstrated its ability to capture complex relationships in the data, outperforming other algorithms.
 Business Application: This model can assist airlines, travel agencies, and end-users in predicting and planning around dynamic flight pricing trends.
+
+
+## predicted value
+![Screenshot 2025-01-12 230933](https://github.com/user-attachments/assets/d6c7fac2-8e97-477b-81d4-c014cbbf34d5)
+
+## Dataset value
+
+![image](https://github.com/user-attachments/assets/d8f98672-cca4-4789-bf53-f9aa3d1f6c8d)
+
